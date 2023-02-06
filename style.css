@@ -1,0 +1,4 @@
+title { text-transform: uppercase; text-align: center; font-size: 200%; color:darkgreen }
+h1 { text-transform: captialize; text-align: center; font-size: 150%; color:blue }
+p.important { border-style: solid; border-width: 10px; border-color:green }
+p { text-align:left; font-size: 100%; color:black }
