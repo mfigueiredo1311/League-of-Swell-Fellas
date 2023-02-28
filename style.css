@@ -6,4 +6,4 @@ h2 { text-align: center; font-size: 150%; color:darkgreen }
 ol { text-align: center; font-size: 100%; color: maroon }
 .classname:link { text-align: right; font-size: 125%; color: gray }
 p #third{ text-align: center; font-size: 125%; color: darkblue }
-table, th, td { border: 1px solid; font-family: 'Times New Roman', Times, serif; text-align: center; color: darkslategray } 
+table, th, td { border: 1px solid black; font-family: 'Times New Roman', Times, serif; text-align: center; font-size: 14px; color: darkslategray } 
