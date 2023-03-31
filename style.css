@@ -11,13 +11,13 @@ title {
 h1 { 
     text-transform: uppercase; 
     text-align: center;
-    top: 60%;
-    bottom: 40%;
+    top: 40%;
+    bottom: 60%;
     font-size: 500%;
     font-weight: 700; 
     color:maroon;
     background-image: url('thomas-park-fDmpxdV69eA-unsplash.jpg');
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     height: 250px;
     margin: 0;
