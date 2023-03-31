@@ -10,15 +10,17 @@ title {
 
 h1 { 
     text-transform: uppercase; 
-    text-align: center; 
+    text-align: center;
+    position: relative;
+    top: 50%;
+    bottom: 50%; 
     font-size: 500%;
     font-weight: 700; 
-    color:blue; 
-    position: sticky;
+    color:blue;
     background-image: url('thomas-park-fDmpxdV69eA-unsplash.jpg');
     background-size: cover;
     background-position: center;
-    height: 500px; 
+    height: 250px; 
 }
 
 p.important { 
